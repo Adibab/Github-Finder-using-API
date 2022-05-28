@@ -8,6 +8,7 @@ Findout Out Github profile
 
 
 How It's Made:
+
 Tech used: HTML, CSS, and JavaScript
 
 I have used a Github API to find out the Github profile.Via Github finder you will be able to check multiple information for example- Company, website/blog, Location, member since, Public Repos, Following, Followers etc. 
